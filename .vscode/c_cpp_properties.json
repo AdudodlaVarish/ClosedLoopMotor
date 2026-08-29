@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "name": "PlatformIO - First",
+            "compileCommands": "${workspaceFolder}/First/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
